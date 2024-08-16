@@ -1,6 +1,6 @@
-# project_app1
+# Fluter Firebase App
 
-A new Flutter project.
+This is my final year senoir project. It is an application for reporting human trafficking 
 
 ## Getting Started
 
